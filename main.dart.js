@@ -1,0 +1,1 @@
+// Simulação do código compilado do Flutter Web
